@@ -1,6 +1,9 @@
 <<dd_version: 2>>     
 <<dd_include: header.txt>>
 
+# Stata II intemediate class
+## Week4 Practice
+### Lab4 to get used to markdown
 
 
 
